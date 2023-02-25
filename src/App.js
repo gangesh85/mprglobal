@@ -1,15 +1,12 @@
 import "./App.css";
-import { Login } from "./Component/Login";
-import { Home } from "./Component/Home";
+import TRoutes from "./Component/TRoutes";
 
 function App() {
-  const login = true;
-
-  if (login) {
-    return <Home />;
-  } else {
-    return <Login />;
-  }
+  return(
+    <div>
+      <TRoutes />
+    </div>
+  )
 }
 
 export default App;

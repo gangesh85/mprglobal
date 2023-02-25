@@ -1,19 +1,19 @@
 {
-    "users": [
-      {
-        "id": 1,
-        "name": "Kunal",
-        "email": "kunal@mail.com"
-      },
-      {
-        "id": 2,
-        "name": "Chaitanya",
-        "email": "chaitanya@mail.com"
-      },
-      {
-        "id": 3,
-        "name": "Deepesh",
-        "email": "deepesh@mail.com"
-      }
-    ]
-  }
+  "users": [
+    {
+      "id": 1,
+      "name": "Kunal",
+      "email": "kunal@mail.com"
+    },
+    {
+      "id": 2,
+      "name": "Chaitanya",
+      "email": "chaitanya@mail.com"
+    },
+    {
+      "id": 3,
+      "name": "Deepesh",
+      "email": "deepesh@mail.com"
+    }
+  ]
+}
